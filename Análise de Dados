@@ -1,0 +1,240 @@
+13. QUAL O NÚMERO DE CONSUMIDORES POR HORA?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+O pico de consumidores ocorre no valor de hora 3, ou seja, corresponde a uma afluência máximo às 3 horas da manhã. Neste período, um total de 72685 consumidores clicaram num post publicado por esta empresa de cosméticos.
+
+O segundo pico máximo de consumidores ocorreu no valor de hora 10, ou seja às 10 horas da manhã. Neste período, um total de 65820 consumidore clicaram num post publicado por esta empresa de cosméticos.
+
+O período de menor afluência registou-se no valor de hora 21 e 0, ou seja, às nove da noite e à meia noite, onde não se verificam quaisqueres registos de clicks em posts.
+
+Essencialmente o que é notório após uma análise mais generalizada do gráfico de barras, é a presença de períodos de grande afluência nos primeiros dois terços do dia, quando comparados com a pouca afluência que se regista no último terço. Estes dois primeiros terços, correspondem aos intervalos de horas compreendidos entre a meia noite e as oito da manhã, para o primeiro terço, e as nove da manhã e quatro da tarde para o segundo. Em ambos é possível verificar um arranque lento, no número de consumidores, seguido de um pico que se pode vir a extender por três horas, e de um eventual abrandamento.
+
+[0 - 8] - Total de 183385 consumidores.
+[9 - 16] - Total de 209582 consumidores.
+[17 - 23] - Total de 6419 consumidores.
+
+O segundo terço acaba por ser aquele onde se verificam mais consumidores, o que não deixa de ser curioso, por se tratar do período onde estão compreendidas maior parte daquelas que são as horas de trabalho para a maioria das pessoas.
+
+No entanto, se cruzarmos informações, no que diz respeito ao número de posts publicados pela empresa, conseguimos perceber melhor os motivos para uma maior afluência nas horas acima descritas
+
+Tal com se pode perceber pelo gráfico acima, as horas onde a empresa publica a maioria dos seus posts, correspondem precisamente aquelas onde a afluência é maior por parte dos consumidores. Fazendo a mesma divisão de terços:
+
+Com isto as conclusões que se retiram, são as de que se quiserem ter mais afluência a uma determinada hora, a empresa deve dedicar-se a colocar o máximo de posts possível nessa mesma hora, pois os consumidores vão corresponder com os clicks.
+
+[0 - 8] - Total de 237 posts publicados.
+[9 - 16] - Total de 256 posts publicados.
+[17 - 23] - Total de 10 posts publicados.
+
+Média - 16641 posts/hora
+Média - 21 posts/hora
+
+14. QUAL O NÚMERO DE CONSUMIDORES POR DIA DA SEMANA?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+O pico de consumidores ocorre no terceiro dia da semana, ou seja, à terça-feira, com um total de 65941 consumidores neste dia.
+
+O segundo maior pico ocorre no sexto dia da semana, ou seja, à sexta-feira, com um total de 63427 consumidores neste dia.
+
+O dia da semana com menos afluência trata-se da segunda-feira, onde apenas 45530 consumidores foram registados.
+
+Neste caso, quando fazemos a comparação com o gráfico de publicação de posts por dia da semana é curioso verificar que no dia onde são registados mais consumidores, trata-se do dia onde a empresa acaba por publicar menos posts, com apenas 64.
+
+O dia onde a empresa se dedica a publicar mais posts, ao sábado, com um total de 82, acaba por ser um dia também ele acima da média de em termos de consumidores desses mesmos posts, com um total de 61704 consumidores.
+
+Com isto as conclusões que se retiram, são as de que se quiserem ter mais afluência num determinado dia, a empresa deve dedicar-se a colocar o máximo de posts possível nessa mesmo dia, pois os consumidores vão corresponder com os clicks.
+
+Média - 71 posts/dia
+Média - 57055 consumidores/dia
+
+15. QUAL O NÚMERO DE CONSUMIDORES POR PARTE DA SEMANA (SEMANA/FIM DE SEMANA) ?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+O número de consumidores ao fim de semana, i.e., em que o valor de Weekend é 1, é de 120038, ao passo que durante a semana o número total de consumidores de posts é 279348. Isto corresponde a sensivelmente 30% de adesão durante o fim de semana e 70% da adesão total durante a semana.
+
+Quando comparámos estes valores com os valores que correspondem ao total de posts publicados por parte da semana, é possível verificar que dos 500 posts, 150 foram publicados no fim de semana, e os restantes 350 à semana. Isto corresponde exatamente ao mesmos 30% e 70% de divisão total entre fim de semana e semana respetivamente.
+
+É mantida assim a tendência que já se tinha verificado na análise de consumidores por hora, onde quanto mais posts são publicados mais consumidores se verificam.
+
+Esta tendência volta sobrepôr-se à tendência mais natural que seria a de visitar mais estas publicações fora dos dias e horas de trabalho.
+
+16. QUAL O NÚMERO DE CONSUMIDORES POR MÊS?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+O mês onde mais consumidores se registam acaba por ser o mês 7, ou seja, Julho, com um total de 49990 consumidores.
+
+O mês com menos afluência por parte dos consumidores acaba por ser o mês 11, i.e., o mês de Novembro, com um total de 18296 consumidores.
+
+Quando analisámos o gráfica de uma forma mais objetiva, podemos verificar uma maior afluência nos primeiros meses do ano, quando comparada com aquela verificado no final do mesmo.
+
+Se dividirmos os meses do ano por estação:
+
+[Janeiro - Março] - Inverno
+[Março - Junho] - Primavera
+[Julho - Setembro] - Verão
+[Outubro - Dezembro] - Outono
+
+E contabilizarmos os total de consumidores neste período:
+
+[Janeiro - Março] - Inverno   - 93524 consumidores.
+[Março - Junho] - Primavera   - 106462 consumidores.
+[Julho - Setembro] - Verão    - 100318 consumidores.
+[Outubro - Dezembro] - Outono - 99082 consumidores.
+
+Verificamos a tendência natural de uma maior afluência a este tipo de produto (cosméticos), nos meses mais quentes do ano.
+
+No entanto volta-se a verificar a tendência de uma maior afluência quanto maior for o fluxo de posts publicados nesse período. Se analisármos precisamente essa componente, com a mesma divisão feita acima, confirmamos essa realidade:
+
+[Janeiro - Março] - Inverno   - 87 publicações.
+[Março - Junho] - Primavera   - 136 publicações.
+[Julho - Setembro] - Verão    - 122 publicações.
+[Outubro - Dezembro] - Outono - 155 publicações.
+
+Analisando os meses individualizados o mês com mais posts, Outubro, não corresponde no entanto com o mês com consumidores, Julho.
+
+Média - 42 posts/mês
+Média - 33282 consumidores/mês
+
+17. QUAL O NÚMERO DE CONSUMIDORES POR TRIMESTRE?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+O quadrimestre onde se registaram mais consumidores foi o terceiro, ou seja aquele que engloba o conjunto do meses de Março, Abril e Maio, com um total de 106462 consumidores.
+
+[Janeiro - Março]    - 93524 consumidores.
+[Março - Junho]      - 106462 consumidores.
+[Julho - Setembro]   - 100318 consumidores.
+[Outubro - Dezembro] - 99082 consumidores.
+
+O quadrimestre onde se registaram menos consumidores foi o primeiro, onde se encontram os meses de Janeiro, Fevereiro e Março com um total de 93524 consumidores.
+
+Se analisarmos o gráfico de posts por mês podemos verificar que o primeiro quadrimestre é aquele onde a empresa de cosméticos menos posts publicou na sua página de Facebook, o que justifica a tendência para se verificarem menos consumidores.
+
+18. QUAL O NÚMERO DE CONSUMIDORES POR TIPO?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+Em relação aos tipos, existem quatro possíveis para classificar cada um dos posts, Link, Photo, Status e Video.
+
+A tendência que se verifica após a análise do gráfico de consumidores por tipo, é uma afluência maior aos posts do tipo Photo, com um total de 294124 consumidores.
+
+De seguida os posts do tipo Status registam 87730 dos clicks. Em terceiro lugar, os posts do tipo Video, tiveram um total de 11093 consumidores, e por último os posts do tipo Link, verificaram 6439 consumidores.
+
+Os posts do tipo Photo, são sem dúvida os que mais interessam ao público, parte por serem bastante apelativos (sobretudo neste tipo de negócio), mas também porque seguem a regra que tem vindo a verificar ao longo desta análise.
+
+Se olharmos para o gráfico que mostra a quantidade de posts publicados por tipo, constatamos que dos 500 posts:
+
+426 são do tipo Photo.
+45 são do tipo Status.
+22 são do tipo Link.
+7 são do tipo Video.
+
+Verficando a tendência de que a categoria que apresentar a maioria dos posts publicados irá ser aquela que irá receber mais afluência por parte das pessoas.
+
+A única exceção desta regra é mesmo a existência de mais posts do tipo Link, do que do tipo Video, e ainda assim os do tipo Video levam vantagem.
+
+A única explicação passa pelo facto dos Links serem menos apelativos estéticamente do que os Videos e implicarem uma consulta de outra página, o que por vezes torna-se inútil ou demasiado trabalhoso para os consumidores.
+
+As Photos devem ser o ramo escolhido pela empresa, visto que são aquelas que melhor cativam os consumidores.
+
+19. QUAL O NÚMERO DE CONSUMIDORES POR CATEGORIA?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+Em relação às categorias existem três onde cada um dos posts de pode encaixar, Action, Inspiration e Product.
+
+A tendência que se verifica é uma preferência pelos posts, de categoria Action, com um total de 165006 consumidores. Em segundo lugar, fica a categoria Product com 129005 consumidores e por último, os posts que se encaixam em Inspiration com 105375 consumidores.
+
+Não sendo estas diferenças muito significativas, volta a verificar-se a regra de que as categorias de posts mais publicadas, são aquelas que recebem mais atenção e portanto mais clicks por parte dos consumidores.
+
+A análise do gráfico com o número total de posts por categoria mostra essa tendência:
+
+A categoria de posts, onde mais posts foram publicados foi a de Action, seguida de Inspiration e por último Product.
+
+Action      - 215 posts
+Inspiration - 155 posts
+Product     - 130 posts
+
+Se a intenção da empresa de cosméticos é angariar o máximo de consumidores possível fica claro que as suas preferências estão em posts da categoria Action.
+
+20. QUAL O NÚMERO DE CONSUMIDORES POR TIPO E CATEGORIA
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+Analisando o gráfico para o efeito, já tinhamos percebido que o tipo Photo era aquele que mais consumidores reunia. No entanto, desta feita, ficamos a perceber dentro de que categorias se inserem cada um dos tipos de post, e quais são aqueles com mais consumidores. 
+
+Dentro do tipo Photo, a categoria com mais consumidores de posts é a Action, seguida da Inspiration e por último Product.
+
+Photo:
+	Action -> 141819
+	Inspiration -> 101651
+	Product -> 50654
+
+Dentro do tipo Status, a categoria com mais consumidores de posts é a Product, seguida da Action e Inspiration.
+
+Status:
+	Action -> 5971
+	Inspiration -> 3479
+	Product -> 78280
+
+Dentro do tipo Video, a categoria com mais consumidores de posts é a Action, sendo que não existem consumidores de posts, para as categorias Inspiration ou Product.
+
+Video:
+	Action -> 11093
+	Inspiration -> 0
+	Product -> 0
+
+Dentro do tipo Link, a categoria com mais consumidores de posts é a Action, seguida de Inspiration e Product.
+
+Link:
+	Action -> 6123
+	Inspiration -> 245
+	Product -> 71
+
+Os valores mais diversificados e com mais consumidores, verificam-se em Photo, pois qualquer que seja a categoria do post, fica mais uma prova de que para os consumidores uma simples foto é a maneira mais simples de passar uma mensagem.
+
+A discrepância de valores em Status, em que os consumidores, surgiram quando os posts deste tipo eram da categoria product, explica-se pelo facto deste tipo ser usado como modo de possível estratégia de marketing para a venda dos seus produtos.
+
+A existência de consumidores nos posts de Video apenas quando a categoria é Action, mostra que a tentativa de publicitar um produto, por exemplo, através de um video falha redondamente, e que o video é a melhor maneira de capturar ação.
+
+A existência de maioritariamente consumidores quando o post Link faz parte da categoria Action, explica-se quando raciocinamos pensando no que foi dito anteriormente. Ora, se os Videos foram melhor aceites para categorias de Action, e dentro dos Links a categoria mais aceite foi também Action, significa que os posts Links serão sobretudo Links para videos externos em plataformas como o Youtube, sendo que qualquer outro redirecionamento, não interessa aos utilizador, nem sequer para publicitar um produto, possívelmente na página da própria empresa de cosméticos.
+
+21. QUAL O NÚMERO DE CONSUMIDORES POR PUBLICAÇÕES PAGAS?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+Existem dois tipos de posts no universo total de 500 publicados pela empresa de cosméticos, pagos e não pagos.
+
+Os posts não pagos, são naturalmente os mais consumidos, com 268999, a consumirem este tipo de posts, e apenas 130387 a consumirem os pagos, uma relação de 67% para 33% aproximadamente. Dentro quer dos posts gratuitos, quer dos posts pagos, a relação de quais são os mais consumidos é equivalente à geral, onde ambos estão incluidos, quer tipo mais consumido, quer em categoria mais consumida
+
+Dois terços dos consumidores clicam em posts não pagos enquanto um terço, consome conteúdos pagos, apesar da relação de posts publicados pagos e não pagos ser ligeiramente superior. 
+
+Como podemos ver do total de 500 apenas 139 são pagos enquanto os restantes 361 são gratuitos. Ou seja, apesar dos posts pagos apenas representarem 28% do universo global, ainda assim 1 terço dos consumidores consultam estes posts.
+
+22. QUAL O NÚMERO DE CONSUMIDORES POR NÚMERO DE GOSTOS NA PÁGINA?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+Um dos factos mais interessantes de se realçar é que o facto do número de likes da página aumentar (o que à partida significaria que a página se tornaria mais conhecido e conseguiria angariar mais consumidores), não significa que o número máximo de consumidores aumente, nem sequer que esse número se mantenha constante.
+
+O pico máximo de 17236 consumidores ocorreu quando o número total de likes na página era de 96749.
+
+No entanto o gráfico pode ser interpretado de uma outra forma. A criação de consumidores aumenta naturalmente o número de likes da página. Os picos de consumidores que se verificam no gráfico sobretudo quando a página estava a atingir o número máximo de likes (aproximadamente 140000 likes), podem significar que a página está a receber likes mais frequentemente, não permitindo assim juntar um número de consumidores tão grande, enquanto que  o intervalo de likes não varia, gerando assim valores menores ao que anteriormente tinha sido registado.
+
+É possível retirar do gráfico que após ocorrer um pico de consumidores de seguida os valores descem significativamente, pois os likes devem ser mais rápidos de alcançar do que anteriormente, impedindo a acumulação de consumidores num dado intervalo.
+
+23. QUAL O NÚMERO DE CONSUMIDORES POR ALCANCE DA PUBLICAÇÃO?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
+As conclusões expectaveis surgem após a analise deste gráfico. Quando o alcance do post é ainda reduzido os valores dos consumidores desse post, são pouco constantes e reduzidos quando comparados com os que se verificam após o alcance do post, ter aumentado.
+
+Existem um ponto, quando o alcance do post era de 98816 em que foi atingido o pico máximo de consumidores, com um total de 11328. Após esse pico, o número de consumidores mantem-se mais constante do que inicialmente, mas reduz ainda assim drasticamente, pois apesar de ser algo estabelecido e largamente partilhado, chegando assim a muitos possíveis consumidores, maior parte deles quando se chega a este ponto já conhece o post em questão, perdendo assim o interesse em voltar a clicar no mesmo.
+
+24. QUAL O NÚMERO DE CONSUMIDORES POR IMPRESSÕES DA PUBLICAÇÃO?
+
+No que diz respeito a esta métrica, após analisar-mos os resultados gerados pela ferramenta PowerBI, somos capazes de retirar as seguintes informações relevantes:
+
